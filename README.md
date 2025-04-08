@@ -26,7 +26,7 @@ Criar um simulador de dispositivos IoT que envia mensagens simuladas, seguindo o
 
 ## 🧪 Evidência de Funcionamento
 
-📹 **Demonstração em Vídeo**: [Link do vídeo demonstrativo](https://youtu.be/seu-link-aqui)
+📹 **Demonstração em Vídeo**: [Link do vídeo demonstrativo](https://youtu.be/z7FdHhZFVbg)
 
 No vídeo, é possível observar:
 
